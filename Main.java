@@ -34,7 +34,7 @@ class Main {
     }
 }
 
-public class Main {
+ class runner {
     public static void main(String[] args) {
         HashSet<Main> students = new HashSet<>();
 
